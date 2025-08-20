@@ -795,7 +795,7 @@
                         <a href="#"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down"></em></a>
                         <div class="dropdown-content">
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
-                            <a href="#">i class="fas fa-laptop"></i> Laptops</a>
+                            <a href="#"><em class="fas fa-laptop"></em> Laptop/a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
@@ -898,7 +898,7 @@
                 <img src="https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Laptop" class="product-img">
                 <div class="product-info">
                     <h3>MacBook Pro 14"</h3>
-                    <div class="price">$1,999</div>
+                    <div class="price">$1,00</div>
                     <div class="rating">★★★★☆ <span>(86)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
